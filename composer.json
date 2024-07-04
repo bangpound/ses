@@ -1,0 +1,17 @@
+{
+    "name": "bangpound/ses",
+    "autoload": {
+        "psr-4": {
+            "Bangpound\\Ses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benjamin J Doherty",
+            "email": "bjd@pobox.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0"
+    }
+}
